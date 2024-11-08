@@ -1,0 +1,1 @@
+El código python se ejecuta cada 60 segundos en un bucle infinito, dentro de un contenedor Docker.
